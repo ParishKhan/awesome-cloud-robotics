@@ -54,6 +54,7 @@ The list provides awesome resources about each of them.
 
 
 - [Learn how to Build Robot Fleet Systems](https://www.theconstructsim.com/robot-fleet-management-ros2-open-rmf-training) - 3-day online training to help your team learn to integrate Open-RMF for robot fleet management.
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 
 
